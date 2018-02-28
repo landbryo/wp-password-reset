@@ -1,2 +1,3 @@
-# wp-password-reset
-WordPress plugin to fix missing link in password reset email.
+# Password Reset
+
+Super simple WordPress plugin that fixes the missing reset link in password reset emails.
