@@ -2,7 +2,7 @@
 /*
 Plugin Name: Password Reset
 Plugin URI: http://scree.it
-Description: Customized password reset.
+Description: WordPress plugin to fix missing link in password reset email.
 Version: 1.0.0
 Author: landbryo
 Author URI: http://scree.it
